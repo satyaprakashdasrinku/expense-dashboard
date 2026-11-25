@@ -1,0 +1,36 @@
+Date,Category,Amount,Type,Description
+2024-01-05,Salary,50000,Income,Monthly salary
+2024-01-07,Groceries,2300,Expense,Big Bazaar weekly grocery
+2024-01-10,Rent,12000,Expense,Monthly house rent
+2024-01-12,Transport,500,Expense,Uber rides
+2024-01-15,Food,850,Expense,Zomato orders
+2024-01-18,Shopping,3200,Expense,Amazon - headphones
+2024-01-20,Utilities,1800,Expense,Electricity bill
+2024-01-22,Food,650,Expense,Swiggy dinner
+2024-01-25,Entertainment,999,Expense,Netflix subscription
+2024-01-28,Groceries,1900,Expense,Vegetables and fruits
+2024-02-05,Salary,50000,Income,Monthly salary
+2024-02-06,Freelance,8000,Income,Web design project
+2024-02-08,Rent,12000,Expense,Monthly house rent
+2024-02-10,Groceries,2100,Expense,Weekly grocery
+2024-02-12,Food,1200,Expense,Restaurant dinner
+2024-02-14,Shopping,7500,Expense,Valentine gift - watch
+2024-02-16,Transport,400,Expense,Auto rickshaw
+2024-02-18,Utilities,2200,Expense,Electricity + water bill
+2024-02-20,Education,4500,Expense,Udemy courses
+2024-02-22,Medical,3000,Expense,Doctor visit + medicines
+2024-02-25,Food,550,Expense,Street food weekend
+2024-02-28,Entertainment,499,Expense,Spotify subscription
+2024-03-05,Salary,52000,Income,Monthly salary (increment)
+2024-03-07,Groceries,2500,Expense,Monthly grocery stock
+2024-03-09,Rent,12000,Expense,Monthly house rent
+2024-03-11,Transport,1200,Expense,Uber + metro
+2024-03-13,Food,900,Expense,Dominos pizza party
+2024-03-15,Shopping,15000,Expense,New smartphone case + accessories
+2024-03-17,Utilities,1600,Expense,Electricity bill
+2024-03-19,Entertainment,2500,Expense,Movie tickets + popcorn
+2024-03-21,Education,1500,Expense,Python book from Amazon
+2024-03-23,Medical,800,Expense,Pharmacy
+2024-03-25,Investment,10000,Expense,SIP mutual fund
+2024-03-28,Groceries,1800,Expense,Fruits and dairy
+2024-03-30,Food,700,Expense,Cafe coffee day
